@@ -21,6 +21,7 @@ This project requires Python 3.6 and the following Python libraries installed:
 * Use your environment, in a terminal or command window, navigate to the notebook directory and run one of the following commands:
 
 `(env_2)$ ../notebook/`
+
 `(env_2)$ jupyter lab`
 
 
